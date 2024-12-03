@@ -12,7 +12,7 @@ import { readConfiguration } from './utils/config.utils';
 import { errorMiddleware } from './middleware/error.middleware';
 
 // Read env variables
-readConfiguration();
+//readConfiguration();
 
 const PORT = 8080;
 
